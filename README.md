@@ -21,9 +21,12 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCWcPM4DZti5ZPd_T58HTK-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ronaldo_onorio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ronaldoonorio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://roondoss.github.io/projetos/home/" target="_blank"><img src="https://github.com/roondoss/projetos/blob/main/assets/imgReadme/projetos.png?raw=true" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ronaldoonorio" target="_blank"><img src="https://github.com/roondoss/projetos/blob/main/assets/imgReadme/linkedin.png?raw=true" target="_blank"></a> 
+  <a href="https://www.instagram.com/ronaldo_onorio/" target="_blank"><img src="https://github.com/roondoss/projetos/blob/main/assets/imgReadme/instagram.png?raw=true" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://github.com/roondoss/projetos/blob/main/assets/imgReadme/meLiga.png?raw=true" target="_blank"></a>
+  <a href="https://wa.me/5567998763544?text=Em%20que%20posso%20te%20ajudar?%20Clica%20no%20botão%20acima%20ou%20BAIXAR%20no%20botão%20abaixo." target="_blank"><img src="https://github.com/roondoss/projetos/blob/main/assets/imgReadme/zap.png?raw=true" target="_blank"></a>
+  <a href="https://roondoss.my3cx.com.br:5001/LiveChat938942" target="_blank"><img src="https://github.com/roondoss/projetos/blob/main/assets/imgReadme/3cx.png?raw=true" target="_blank"></a>
  
   ![Snake animation](https://github.com/roondoss/roondoss/blob/output/github-contribution-grid-snake.svg)
  
